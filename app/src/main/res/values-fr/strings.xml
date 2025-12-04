@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mini Suivi de Prières</string>
+    <string name="app_description">Suivez vos prières quotidiennes et restez cohérent.</string>
+    <string name="welcome_message">Bienvenue ! Suivons vos prières.</string>
+    <string name="start">Commencer</string>
+    <string name="exit">Quitter</string>
+    <string name="exit_message">Merci d'avoir utilisé Mini Suivi de Prières</string>
+    <string name="prayer_prompt">Quelles prières avez-vous accomplies aujourd'hui ?</string>
+    <string name="fajr">Fajr</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    <string name="submit">Valider</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="no_prayer_selected">Veuillez sélectionner au moins une prière</string>
+    <string name="data_saved">Données enregistrées</string>
+    <string name="summary_title">Résumé des prières</string>
+    <string name="prayers_completed">Prières accomplies :</string>
+    <string name="calculate_score">Calculer le score d'accomplissement</string>
+    <string name="completion_score">Score d'accomplissement : %1$d%%</string>
+    <string name="validate_return">Valider et retourner</string>
+    <string name="cancel">Annuler</string>
+    <string name="well_done">Bien joué !</string>
+    <string name="operation_cancelled">Opération annulée par l'utilisateur</string>
+    <string name="no_summary_result">Aucun résultat du résumé</string>
+</resources>

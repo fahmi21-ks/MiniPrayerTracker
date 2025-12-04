@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mini Prayer Tracker</string>
+    <string name="app_description">Track your daily prayers and stay consistent.</string>
+    <string name="welcome_message">Welcome! Let's track your prayers.</string>
+    <string name="start">Start</string>
+    <string name="exit">Exit</string>
+    <string name="exit_message">Thank you for using Mini Prayer Tracker</string>
+    <string name="prayer_prompt">Which prayers have you completed today?</string>
+    <string name="fajr">Fajr</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="no_prayer_selected">Please select at least one prayer</string>
+    <string name="data_saved">Data saved</string>
+    <string name="summary_title">Prayer Summary</string>
+    <string name="prayers_completed">Prayers completed:</string>
+    <string name="calculate_score">Calculate Completion Score</string>
+    <string name="completion_score">Completion Score: %1$d%%</string>
+    <string name="validate_return">Validate and Return</string>
+    <string name="cancel">Cancel</string>
+    <string name="well_done">Well done!</string>
+    <string name="operation_cancelled">Operation cancelled by user</string>
+    <string name="no_summary_result">No result from summary</string>
+</resources>
