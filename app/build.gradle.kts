@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.calculbmi"
+    namespace = "com.example.miniprayertracker"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.calculbmi"
+        applicationId = "com.example.miniprayertracker"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

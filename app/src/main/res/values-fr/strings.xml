@@ -4,8 +4,8 @@
     <string name="welcome_message">Bienvenue ! Suivons vos prières.</string>
     <string name="start">Commencer</string>
     <string name="exit">Quitter</string>
-    <string name="exit_message">Merci d'avoir utilisé Mini Suivi de Prières</string>
-    <string name="prayer_prompt">Quelles prières avez-vous accomplies aujourd'hui ?</string>
+    <string name="exit_message">Merci d\'avoir utilisé Mini Suivi de Prières</string>
+    <string name="prayer_prompt">Quelles prières avez-vous accomplies aujourd\'hui ?</string>
     <string name="fajr">Fajr</string>
     <string name="dhuhr">Dhuhr</string>
     <string name="asr">Asr</string>
@@ -17,11 +17,11 @@
     <string name="data_saved">Données enregistrées</string>
     <string name="summary_title">Résumé des prières</string>
     <string name="prayers_completed">Prières accomplies :</string>
-    <string name="calculate_score">Calculer le score d'accomplissement</string>
-    <string name="completion_score">Score d'accomplissement : %1$d%%</string>
+    <string name="calculate_score">Calculer le score d\'accomplissement</string>
+    <string name="completion_score">Score d\'accomplissement : %1$d%%</string>
     <string name="validate_return">Valider et retourner</string>
     <string name="cancel">Annuler</string>
     <string name="well_done">Bien joué !</string>
-    <string name="operation_cancelled">Opération annulée par l'utilisateur</string>
+    <string name="operation_cancelled">Opération annulée par l\'utilisateur</string>
     <string name="no_summary_result">Aucun résultat du résumé</string>
 </resources>

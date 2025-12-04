@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Mini Prayer Tracker</string>
     <string name="app_description">Track your daily prayers and stay consistent.</string>
-    <string name="welcome_message">Welcome! Let's track your prayers.</string>
+    <string name="welcome_message">Welcome! Let\'s track your prayers.</string>
     <string name="start">Start</string>
     <string name="exit">Exit</string>
     <string name="exit_message">Thank you for using Mini Prayer Tracker</string>

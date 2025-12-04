@@ -19,7 +19,7 @@
         android:layout_marginTop="16dp"
         android:textSize="18sp" />
 
-    <Button
+    <com.google.android.material.button.MaterialButton
         android:id="@+id/calculate_score_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -41,14 +41,14 @@
         android:layout_marginTop="32dp"
         android:orientation="horizontal">
 
-        <Button
+        <com.google.android.material.button.MaterialButton
             android:id="@+id/validate_return_button"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/validate_return" />
 
-        <Button
+        <com.google.android.material.button.MaterialButton
             android:id="@+id/cancel_return_button"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
